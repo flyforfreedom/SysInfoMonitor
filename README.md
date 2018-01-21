@@ -1,1 +1,1 @@
-Get Windows system info
+Get Windows system info via Wbem
