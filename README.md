@@ -1,2 +1,1 @@
-# SysInfoMonitor
-Windows system info monitor
+Get Windows system info
